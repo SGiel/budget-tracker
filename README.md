@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/-Mongoose-purple" />
     <img src="https://img.shields.io/badge/Express-brightgreen" />
     <img src="https://img.shields.io/badge/-IndexDB-grey" />
-    <img src="https://img.shields.io/badge/-Service&Workers-blue" />
+    <img src="https://img.shields.io/badge/-Service-Workers-blue" />
   </p>
 
 ## Assignment
@@ -38,7 +38,7 @@
   :four: Type `npm start` from the root of your project's directory in the terminal window
 
 ## Usage
-   This project utilizes Node.js, Express.js for the server, MongoDB and Mongoose.js for the NoSQL database, and IndexDB and service workers to add offline functionality.
+   This project utilizes Node.js, Express.js for the server, MongoDB and Mongoose.js for the NoSQL database, IndexDB and service workers to add offline functionality, and Compression and Morgan packages.
  
 ## License  
   

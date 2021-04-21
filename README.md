@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/-Mongoose-purple" />
     <img src="https://img.shields.io/badge/Express-brightgreen" />
     <img src="https://img.shields.io/badge/-IndexDB-grey" />
-    <img src="https://img.shields.io/badge/-service+workers-blue" />
+    <img src="https://img.shields.io/badge/-Service&Workers-blue" />
   </p>
 
 ## Assignment

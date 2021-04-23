@@ -6,10 +6,12 @@ const CACHE_NAME = APP_PREFIX + VERSION;
 // this page will be hosted at the github.io/projectname 
 // Note that we intentionally didn't include the images in assets.
 const FILES_TO_CACHE = [
+  "./",
   "./index.html",
   "./css/styles.css",
   "./js/index.js",
-  "./js/idb.js"
+  "./js/idb.js",
+  "./manifest.json"
 ];
 
 // Use self instead of window.addEventListener, because service workers run before the window
